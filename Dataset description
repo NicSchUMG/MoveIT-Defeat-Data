@@ -1,8 +1,8 @@
-The MOVE-IT DEFEAT dataset contains pseudonymised patient-level data collected in six different survey waves.
-Rows represent patients (identified by a pseudonym).
-Columns represent assessed variables.
+The MOVE-IT DEFEAT dataset contains pseudonymised patient-level data collected over six different survey waves.
+- Rows represent patients (identified by a pseudonym).
+- Columns represent assessed variables.
 
-Included survey waves:
+#Included survey waves:
 _A = Defeat 1 survey
 _B = Defeat 2 survey
 _C = Defeat 3 survey
@@ -10,4 +10,15 @@ _D = Defeat 4 survey
 _rheuma = Rhematism survey
 _OAC = Outpatient Assessment Clinic survey
 
-This repository contains R syntax examples for analysing the MOVE-IT DEFEAT dataset.
+
+#Included questionnaires:
+- EQ-5D (_A, _B, _C, _D, _rheuma)
+- FAS (_B, _C, _D, _rheuma)
+- GAD-7 (_B, _C, _D)
+- IMET (_A, _C)
+- PHQ-9 (_B, _C)
+- PSPQ (_B, _D)
+- EFK (_B)
+- PSS (_B)
+- RS13 (_B)
+- DePaul PEM (_D)
