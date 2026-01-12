@@ -1,0 +1,1 @@
+Data <- read.csv2("MoveItData.csv", header=T, na.strings=c(""))
