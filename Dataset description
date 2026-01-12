@@ -22,3 +22,8 @@ _OAC = Outpatient Assessment Clinic survey
 - PSS (_B)
 - RS13 (_B)
 - DePaul PEM (_D)
+
+
+#Other included variables:
+- demographic data
+- health data (pre-existing diseases, Long-Covid symptoms, vaccinations, Covid infections)
