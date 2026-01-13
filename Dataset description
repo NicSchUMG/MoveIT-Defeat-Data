@@ -1,6 +1,6 @@
 The MOVE-IT DEFEAT dataset contains pseudonymised patient-level data collected over six different survey waves.
 - Rows represent patients (identified by a pseudonym).
-- Columns represent assessed variables.
+- Columns represent assessed variables (ending indicates survey wave).
 
 #Included survey waves:
 _A = Defeat 1 survey
@@ -26,4 +26,4 @@ _OAC = Outpatient Assessment Clinic survey
 
 #Other included variables:
 - demographic data
-- health data (pre-existing diseases, Long-Covid symptoms, vaccinations, Covid infections)
+- health data (pre-existing diseases, Long-Covid symptoms, Covid infections & vaccinations)
