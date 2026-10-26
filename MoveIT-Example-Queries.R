@@ -13,7 +13,7 @@ library(patchwork)
 ## Loading in the data
 
 #Home Computer
-data_synth <- read.csv("V:/Nextcloud/Ostfalia/MoveIT/0 data/final/DefeatMoveIT_Synthetic_Raw.csv")
+data_synth <- read.csv("")
 
 
 ## COVID Status per Group
